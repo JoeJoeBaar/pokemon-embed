@@ -1,6 +1,6 @@
 {
-  "name": "Emulatrix",
-  "short_name": "Emulatrix",
+  "name": "Pokémon Emulator",
+  "short_name": "Pokémon",
   "lang": "en-US",
   "start_url": "./index.html",
   "display": "fullscreen",
